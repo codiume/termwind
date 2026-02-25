@@ -94,6 +94,10 @@ Supported color palettes:
 | `max-w-{n}` | Maximum width |
 | `min-w-{n}` | Minimum width |
 
+## Acknowledgments
+
+This package was inspired by [nunomaduro/termwind](https://github.com/nunomaduro/termwind).
+
 ## License
 
 MIT
