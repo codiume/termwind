@@ -1,4 +1,4 @@
-module termwind
+module github.com/codiume/termwind
 
 go 1.25.0
 

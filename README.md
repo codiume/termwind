@@ -1,5 +1,10 @@
 # Termwind
 
+[![Go](https://github.com/codiume/termwind/actions/workflows/go.yml/badge.svg)](https://github.com/codiume/termwind/actions/workflows/go.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/codiume/termwind)](https://goreportcard.com/report/github.com/codiume/termwind)
+[![GoDoc](https://pkg.go.dev/badge/github.com/codiume/termwind.svg)](https://pkg.go.dev/github.com/codiume/termwind)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 Style CLI applications with Tailwind-like syntax in Go.
 
 ## Installation
@@ -75,16 +80,16 @@ Supported color palettes:
 
 ### Typography
 
-| Class          | Description              |
-| -------------- | ------------------------ |
-| `font-bold`    | Bold text                |
-| `font-italic`  | Italic text              |
-| `underline`    | Underlined text          |
-| `line-through` | Strike-through text      |
-| `uppercase`    | Transform to uppercase   |
-| `lowercase`    | Transform to lowercase   |
-| `capitalize`   | Capitalize words         |
-| `snakecase`    | Transform to snake_case  |
+| Class          | Description             |
+| -------------- | ----------------------- |
+| `font-bold`    | Bold text               |
+| `font-italic`  | Italic text             |
+| `underline`    | Underlined text         |
+| `line-through` | Strike-through text     |
+| `uppercase`    | Transform to uppercase  |
+| `lowercase`    | Transform to lowercase  |
+| `capitalize`   | Capitalize words        |
+| `snakecase`    | Transform to snake_case |
 
 ### Layout
 
