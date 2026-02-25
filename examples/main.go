@@ -3,7 +3,8 @@ package main
 import (
 	"fmt"
 	"log"
-	"termwind"
+
+	"github.com/codiume/termwind"
 )
 
 func main() {
