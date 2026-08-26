@@ -1,7 +1,6 @@
 # Termwind
 
 [![Go](https://github.com/codiume/termwind/actions/workflows/go.yml/badge.svg)](https://github.com/codiume/termwind/actions/workflows/go.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/codiume/termwind)](https://goreportcard.com/report/github.com/codiume/termwind)
 [![GoDoc](https://pkg.go.dev/badge/github.com/codiume/termwind.svg)](https://pkg.go.dev/github.com/codiume/termwind)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
